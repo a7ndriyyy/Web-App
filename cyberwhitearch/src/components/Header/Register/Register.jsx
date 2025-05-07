@@ -11,6 +11,17 @@ const Register = () => {
 
             {/* Right Section - Register and Username */}
             <div className="register-right">
+                <div className="Password-boxes">
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                    <input type="text" placeholder="" className="password-input" />
+                </div>
                 <input type="text" placeholder="Enter Username" className="username-input" />
                 <button className="register-button">Access</button>
             </div>
