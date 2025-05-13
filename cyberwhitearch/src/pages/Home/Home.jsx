@@ -1,15 +1,10 @@
-// src/pages/Home.jsx
-import React from 'react';
-import MainImage from '../../components/MainImage/MainImage';
+import Register from "../../components/Header/Register/Register";
 
-const Home = () => {
-  return (
-    <main>
-      <MainImage />
-      {/* Ти можеш додати інші секції сюди */}
-    </main>
-  );
-};
-
-export default Home;
-
+export default function Home() {
+    return (
+        <div>
+            <h1>Головна сторінка</h1>
+            <Register />
+        </div>
+    );
+}
