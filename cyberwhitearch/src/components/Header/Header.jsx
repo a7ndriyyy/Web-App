@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react';
 import { Link } from 'react-router-dom';
 import {
@@ -44,5 +43,3 @@ const HeaderComponent = () => {
 };
 
 export default HeaderComponent;
-=======
->>>>>>> parent of a8cc427 (home + header)

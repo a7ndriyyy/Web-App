@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import Register from "../../components/Header/Register/Register";
 
 export default function Home() {
@@ -9,5 +8,3 @@ export default function Home() {
         </div>
     );
 }
-=======
->>>>>>> parent of a8cc427 (home + header)
