@@ -1,3 +1,4 @@
+
 // src/pages/Home.jsx
 import React from 'react';
 import MainImage from '../../components/MainImage/MainImage';
@@ -12,4 +13,7 @@ const Home = () => {
 };
 
 export default Home;
+
+
+
 
